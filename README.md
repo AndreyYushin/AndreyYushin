@@ -8,6 +8,7 @@ ___
 ### Tools:
 
 ___
+### Contact me:
 <div id "badges">
 <a href="https://www.linkedin.com/in/andrey-yushin-ba6570290?trk=contact-info">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn" alt="LinkedIn Badge"/>
