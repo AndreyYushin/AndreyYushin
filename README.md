@@ -1,10 +1,17 @@
 ![](QA.png)
-<<<<<<< HEAD
 
 # Hi, my name is Andrey Yushin.  👋
 ___
-=======
-# Hi, my name is Andrey Yushin.  👋
+* About me:
+    * I am an aspiring QA tester. At the moment I am studying at [Vadim Ksendzov's software testing courses](https://ksendzov.com/). 
 ___
-
->>>>>>> bd10b8edeee974761f544d452356a491640494ee
+<div id "badges">
+<a href="https://www.linkedin.com/in/andrey-yushin-ba6570290?trk=contact-info">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   
+<a href="https://t.me/Zeinkor">   
+   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+   
+<a href="https://Zeinkor@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail"/>
+</div> 
