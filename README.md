@@ -6,7 +6,7 @@ ___
    * I am an aspiring QA tester. At the moment I am studying at [Vadim Ksendzov's software testing courses](https://ksendzov.com/). I am practicing on two commercial projects, the first on mobile testing, the second on SaaS testing, where Web, WinApp, Mobile are tested. 
 ___
 ### Tools:
-![](GitHub.png) ![](Postman.png)
+![](GitHub.png) ![](Postman.png) ![](Postgresql.png) ![](Terminal.png) ![](Charles.png) ![](JMeter.png) ![](DevTools.jpg)
 
 ___
 ### Contact me:
