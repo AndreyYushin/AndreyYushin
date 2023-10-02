@@ -8,5 +8,5 @@ ___
 <div id "badges">
 <a href="https://www.linkedin.com/in/andrey-yushin-ba6570290?trk=contact-info">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<img src="https://img.shields.io/badge/-%3Flogo%3DTelegram%26logoColor%3Dwhite?style=badge&logo=Telegram&logoColor=blue&label=Telegram&labelColor=white&color=white" alt="Telegram Badge"/>
+<img src="https://img.shields.io/badge/-%3Flogo%3DTelegram%26logoColor%3Dwhite?style=for-the-badge&logo=Telegram&logoColor=blue&label=Telegram&labelColor=white&color=white" alt="Telegram Badge"/>
 </div> 
