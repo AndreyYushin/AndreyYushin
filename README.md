@@ -1,4 +1,4 @@
-![](QA.png)
+![](QA.jpg)
 
 # Hi, my name is Andrey Yushin.  👋
 ___
