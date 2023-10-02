@@ -7,6 +7,7 @@ ___
 ___
 <div id "badges">
 <a href="https://www.linkedin.com/in/andrey-yushin-ba6570290?trk=contact-info">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://t.me/Zeinkor">   
+   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
 </div> 
