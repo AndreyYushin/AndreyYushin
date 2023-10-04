@@ -6,7 +6,7 @@ ___
    * I am an aspiring QA tester. At the moment I am studying at [Vadim Ksendzov's software testing courses](https://ksendzov.com/). I am practicing on two commercial projects, the first on mobile testing, the second on SaaS testing, where Web, WinApp, Mobile are tested. 
 ___
 ### Tools:
-![](GitHub.png) ![](Postman.png) ![](Postgresql.png) ![](Terminal.png) ![](Charles.png) ![](JMeter.png) ![](DevTools.jpg)
+[![](GitHub.png)](https://github.com/AndreyYushin/GitHub) [![](Postman.png)](https://github.com/AndreyYushin/Postman) [![](Postgresql.png)](https://github.com/AndreyYushin/SQL) [![](Terminal.png)](https://github.com/AndreyYushin/Terminal) ![](Charles.png) ![](JMeter.png) [![](DevTools.jpg)](https://github.com/AndreyYushin/DevTools)
 
 ___
 ### Contact me:
